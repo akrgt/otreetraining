@@ -30,6 +30,10 @@
 
 * ### [コチラ](https://github.com/akrgt/otreetraining/tree/master/outline)
 
+## 簡単に実験を作ってみた
+
+* ### [コチラ](https://github.com/akrgt/otreetraining/tree/master/EASY)
+
 ### 独裁者ゲーム
 
 * ### [コチラ](https://github.com/akrgt/otreetraining/tree/master/DG)
@@ -53,21 +57,7 @@
 
 
 
-## ちなみに
-
-* 私はMacを使っていますが，基本的にはWindowsでもLinuxでも何でもいけるはずです．
-
-* Windowsは対応ができそうですが，Linuxなどの場合はサポートできない恐れがありますのでご了承ください．
-
-* きっとPythonに詳しい人がいらっしゃると思うので，助けてもらいましょう．
-
-
-
-## 実践編で使うサイト
-
-* ### [コチラ](http://open.bee-lab.online/demo/)
-
-* まだ改修作業を続けている最中ですので，エラーが発生する可能性があります．
+### 
 
 ## 資料
 
