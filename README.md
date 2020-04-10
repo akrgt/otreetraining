@@ -30,9 +30,9 @@
 
 * ### [コチラ](https://github.com/akrgt/otreetraining/tree/master/outline)
 
-## 簡単に実験を作ってみた
+### 簡単に実験を作ってみた
 
-* ### [コチラ](https://github.com/akrgt/otreetraining/tree/master/EASY)
+* ### [コチラ](https://github.com/akrgt/otreetraining/tree/master/easy)
 
 ### 独裁者ゲーム
 
